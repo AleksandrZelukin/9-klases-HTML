@@ -3,9 +3,11 @@ body {
   }
   p {
    color:DarkBlue;
+   padding-left: 10px;
   }
   h1 {
-  color:Brown; 
+  color:Brown;
+  font-size: 300%; 
   }
   .A {
   text-align: center;
@@ -17,5 +19,8 @@ body {
   }
   div {
     border-style: dotted dashed solid double;
-
+    border-color: rgb(0, 30, 255);
+    padding-top: 20px;
+    padding-bottom: 20pt;
+    margin: 20px;
   }
