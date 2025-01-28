@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(217, 208, 220);
+  }
+  p {
+   color:DarkBlue;
+  }
+  h1 {
+  color:Brown; 
+  }
+  .A {
+  text-align: center;
+  color: yellow
+  }
+  .center {
+    text-align: center;
+    color: red;
+  }
+  div {
+    border-style: dotted dashed solid double;
+
+  }
